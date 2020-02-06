@@ -1,6 +1,2 @@
 .gopath
 vendor/
-
-# removed test
-# adding this note
-
